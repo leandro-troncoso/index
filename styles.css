@@ -63,14 +63,6 @@ header {
 	margin: 1% 0 0 0;
 }
 
-/*#langu1:hover {
-	color: #c6c6c6;
-}*/*/
-
-.hover:hover {
-	color: #c6c6c6;
-}
-
 #langu4 {
 	color: #333333;
 	font-size: 1vw;
@@ -85,10 +77,6 @@ header {
 	text-decoration: none;
 	margin: 1% 0 0 0;
 }
-
-/*#langu3:hover {
-	color: #c6c6c6;
-}*/
 
 .flex-logo {
 	display: flex;
@@ -108,6 +96,7 @@ header {
 .bars {
 	display: flex;
 	margin: auto;
+	justify-content: center;
 	padding: 0 0 2% 0;
 	max-width: 83.3%;
 }
